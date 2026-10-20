@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+    <rect width="900" height="620" fill="#f7f7f7"/>
+    <circle cx="730" cy="100" r="180" fill="#ffffff"/>
+    <circle cx="140" cy="520" r="210" fill="#eeeeee"/>
+    <g stroke="#222" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="300" y="185" width="300" height="220" rx="85" fill="#e4e5e6"/><rect x="325" y="205" width="250" height="180" rx="70" fill="#fff"/><path d="M385 225 C345 225 335 275 360 300 L390 330 L410 315 L385 280 C375 265 390 250 405 260 L430 282 L447 265 C430 240 410 225 385 225 Z" fill="#d4d6d8"/><path d="M515 225 C555 225 565 275 540 300 L510 330 L490 315 L515 280 C525 265 510 250 495 260 L470 282 L453 265 C470 240 490 225 515 225 Z" fill="#d4d6d8"/></g><text x="450" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#777">AIRPODS PRO</text><text x="450" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#aaa">LOCAL PLACEHOLDER ART — REPLACE WITH LICENSED IMAGE</text></svg>

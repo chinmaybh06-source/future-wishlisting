@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+    <rect width="900" height="620" fill="#f7f7f7"/>
+    <circle cx="730" cy="100" r="180" fill="#ffffff"/>
+    <circle cx="140" cy="520" r="210" fill="#eeeeee"/>
+    <g stroke="#222" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><circle cx="450" cy="315" r="115" fill="none" stroke="#222" stroke-width="25"/><circle cx="450" cy="315" r="65" fill="none" stroke="#aaa" stroke-width="12"/><path d="M300 315 L600 315 M450 190 L450 440" stroke="#777" stroke-width="8"/><path d="M330 420 L270 460 M570 420 L630 460" stroke="#222" stroke-width="12"/></g><text x="450" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="4" fill="#777">CLASSIC 350</text><text x="450" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#aaa">LOCAL PLACEHOLDER ART — REPLACE WITH LICENSED IMAGE</text></svg>
